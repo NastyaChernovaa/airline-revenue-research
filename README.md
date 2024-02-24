@@ -3,7 +3,7 @@ EDA
 
 Task: research airline revenue by flight destinations, types of flights, seasonality of sales
 
-Data source: https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat
+Data source: https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat <br>
 column_names = ['Airport Name', 'Location', 'Country', 'IATA_Code', 'ICAO_Code', 'Latitude', 'Longitude', 'Altitude', 'Timezone', 'DST', 'Timezone Region', 'Type', 'Source'] <br>
 
 The dataset contains information about the sale of airline tickets. Each line is a unique purchase. <br>
